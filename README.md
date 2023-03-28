@@ -6,7 +6,7 @@
 
 #### 介绍
 个人开发的Typecho APP
-
+![run](run.jpg)
 #### 软件架构
 基于uni-app框架
 typecho后台
